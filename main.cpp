@@ -2,6 +2,17 @@
 using namespace std;
 
 int main() {
-  cout << "Hello World!";
+  // this is a comment
+
+
+  /*
+  ini 
+  command 
+  multiple
+  */
+
+
+  cout << "Hello World!" << '\n';
+  std::cout << "Nama saya Fadil" << std::endl;
   return 0;
 }
