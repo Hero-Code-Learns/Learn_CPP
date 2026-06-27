@@ -25,6 +25,8 @@ int main(){
         case 'D': 
             cout << "Nilai " << mapel << " anda sangat buruk" ;
             break;
+        default: 
+            cout << "Pilihan anda tidak valid";
     }
 
 }
